@@ -1,4 +1,4 @@
-[Home](README.md) ¦ [Cast](Cast.md) ¦ [Collectables](collectables.md) ¦ 
+[Home](README.md) ¦ [Cast](Cast.md) ¦ [Collectables](Collectables.md) ¦ 
 
 
 
